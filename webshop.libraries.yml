@@ -1,0 +1,14 @@
+global-styling:
+  version: VERSION
+  css:
+    theme:
+      css/materialize.css: {}
+      css/style.css: {}
+global-scripts:
+  version: VERSION
+  js: 
+    js/materialize.js: {}
+    js/init.js: {}
+    js/mobile.js: {}
+  dependencies:
+    - core/jquery

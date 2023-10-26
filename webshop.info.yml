@@ -1,0 +1,11 @@
+name: Webshop
+type: theme
+base theme: false
+description: A clean, accessible, and flexible Drupal front-end theme.
+alt text: Screenshot of Webshop, Drupal front-end theme.
+package: 10.x
+
+# version: VERSION
+libraries:
+  - webshop/global-styling
+  - webshop/global-scripts
